@@ -90,3 +90,9 @@ article span {
 article img {
   width: 60%;
 }
+
+@media screen and (min-width: 23.43) {
+  article {
+    width: 30%;
+  }
+}
